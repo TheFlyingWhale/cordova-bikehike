@@ -1,6 +1,6 @@
 ![BikeHike Icon](https://github.com/TheFlyingWhale/electron-bikehike/blob/main/build/icon256.png)
 
-# BikeHike - Electron application
+# BikeHike - Cordova application
 
 A Cordova application wrapping a vanilla JavaScript SPA
 
