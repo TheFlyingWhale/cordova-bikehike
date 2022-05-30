@@ -23,9 +23,16 @@ $ cordova platform add browser
 ### Build
 
 Run the following command to build the application
+For all platforms:
 
 ```
 $ cordova build
+```
+
+or for specific platform
+
+```
+$ cordova build ios
 ```
 
 ### Emulate
