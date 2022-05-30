@@ -6,7 +6,7 @@ A Cordova application wrapping a vanilla JavaScript SPA
 
 ## Test the application:
 
-### Add platform
+### #1 Add platform
 
 Run the following command to add a platform that you'd like to simulate the application on
 
@@ -20,7 +20,7 @@ or
 $ cordova platform add browser
 ```
 
-### Build
+### #2 Build
 
 Run the following command to build the application
 For all platforms:
@@ -35,7 +35,7 @@ or for specific platform
 $ cordova build ios
 ```
 
-### Emulate
+### #3 Emulate
 
 Run the following command to emulate the application
 
